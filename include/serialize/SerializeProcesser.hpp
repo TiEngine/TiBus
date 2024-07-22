@@ -49,6 +49,7 @@ public:
     void Reset()
     {
         ss.str("");
+        ss.clear();
     }
 
 private:
